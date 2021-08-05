@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Jugador.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EmpresaDots.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Punto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Numero.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LineaH.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LineaV.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SeisPuntos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NuevePuntos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuincePuntos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CampoJuego.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Integrador.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Jugada.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Partida.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Juego.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Excepcion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vista.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Controladora.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Consola.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Persona.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Maquina.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Persona_Persona.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Persona_Maquina.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EstrategiaAleatoria.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EstrategiaPadre.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EstrategiaPeriferica.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EstrategiaInteligente.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EstrategiaCercana.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EstrategiaIslas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EstrategiaCentral.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Jugador.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lista.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EmpresaDots.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Elemento.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Punto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Numero.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Linea.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LineaH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LineaV.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CampoAbs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeisPuntos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NuevePuntos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuincePuntos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CampoJuego.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Integrador.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Jugada.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Partida.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Juego.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Excepcion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vista.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Controladora.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Consola.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Persona.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Maquina.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Persona_Persona.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Persona_Maquina.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EstrategiaPadre.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EstrategiaAleatoria.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EstrategiaPeriferica.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EstrategiaInteligente.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EstrategiaCercana.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EstrategiaIslas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EstrategiaCentral.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
